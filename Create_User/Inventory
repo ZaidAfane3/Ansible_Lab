@@ -1,0 +1,4 @@
+[JOSA]
+; IP ADDRESS FOR HOSTS ARE DEFINED IN /etc/hosts
+JOSA1 ansible_ssh_user=root 
+JOSA2 ansible_ssh_user=root 
